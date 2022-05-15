@@ -47,6 +47,8 @@ author:
   # # Used by `jekyll-seo-tag`:
   github:             nastjamakh
 
+repository: nastjamakh/nastjamakh.github.io
+
 # Add links to the sidebar.
 menu:
   - title:             Blog
